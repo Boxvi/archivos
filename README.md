@@ -8,7 +8,7 @@
 - **REPOSITORIO:** [Repositorio springgc1](https://github.com/Boxvi/springgc1.git)
 
 # WEB
-- **URL:** [ISTA EMPLEOP]()
+- **URL:** [ISTA EMPLEO]()
 - **REPOSITORIO:** [Repositorio webgc1](https://github.com/Boxvi/webgc1.git)
 
 # BASE DE DATOS
