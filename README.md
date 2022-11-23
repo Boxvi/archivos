@@ -12,6 +12,6 @@
 - **REPOSITORIO:** [Repositorio webgc1](https://github.com/Boxvi/webgc1.git)
 
 # BASE DE DATOS
-- **DIAGRAMA ENTIDAD RELACIONAL:** [DIAGRAMA ENTIDAD RELACIONAL]()
-- **DIAGRAMA RELACIONAL:** [DIAGRAMA RELACIONAL]()
-- **NORMALIZACION:** [NORMALIZACION]()
+- **DIAGRAMA ENTIDAD RELACIONAL:** [DIAGRAMA ENTIDAD RELACIONAL](https://github.com/Boxvi/archivos/blob/main/Base%20de%20Datos/DIAGRAMA%20Entidad-Relaci%C3%B3n.drawio.png)
+- **DIAGRAMA RELACIONAL:** [DIAGRAMA RELACIONAL](https://github.com/Boxvi/archivos/blob/main/Base%20de%20Datos/DIAGRAMA%20Relacional.drawio.png)
+- **NORMALIZACION:** [NORMALIZACION](https://github.com/Boxvi/archivos/blob/main/Base%20de%20Datos/DIAGRAMA%20Normalizado.drawio.png)
