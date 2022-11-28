@@ -16,3 +16,23 @@
 - **DIAGRAMA ENTIDAD RELACIONAL** [DIAGRAMA ENTIDAD%20RELACIONAL](https://github.com/Boxvi/archivos/blob/main/Base%20de%20Datos/DIAGRAMA%20Entidad-Relaci%C3%B3n.drawio.png)
 - **DIAGRAMA RELACIONAL** [DIAGRAMA RELACIONAL](https://github.com/Boxvi/archivos/blob/main/Base%20de%20Datos/DIAGRAMA%20Relacional.drawio.png)
 - **NORMALIZACION** [NORMALIZACION](https://github.com/Boxvi/archivos/blob/main/Base%20de%20Datos/DIAGRAMA%20Normalizado.drawio.png)
+
+ADMINISTRADOR
+user: _BORIS_
+pass: 1234
+
+user: admin_boris
+pass: 1234
+
+
+EMPRESA
+user: copmego
+pass: 1234
+
+user: pepsi
+pass: 1234
+
+
+EMPLEADO
+user: boxvi
+pass: 1234
